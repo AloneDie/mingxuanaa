@@ -1,5 +1,3 @@
-import './index.css';
-
 (function (doc) {
     function flipCard(card, to) {
         // 得到它目前的值
